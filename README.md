@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on [Exploring Object Detection & Tracking in Frequency Domain](https://github.com/Sallyliubj/Image_Processing_Project)
 
-- 🌱 I’m currently learning **C++**
-
 - 📫 How to reach me **tongzeyi1@gmail.com** or **zt2373@columbia.edu**
 
 <h3 align="left">Connect with me:</h3>
