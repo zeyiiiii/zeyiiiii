@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="zeyiiiii" /> </p>
 
 - 🔭 I’m currently working on [Exploring Object Detection & Tracking in Frequency Domain](https://github.com/Sallyliubj/Image_Processing_Project)
+  
+- 💻 I'm contributing to [PhysioLabXR](https://github.com/PhysioLabXR/PhysioLabXR-Community)
 
 - 📫 How to reach me **tongzeyi1@gmail.com** or **zt2373@columbia.edu**
 
